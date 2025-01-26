@@ -1,0 +1,5 @@
+module amazonform1
+typeinfo appamazonform1.qmltypes
+prefer :/qt/qml/amazonform1/
+Main 1.0 Main.qml
+
