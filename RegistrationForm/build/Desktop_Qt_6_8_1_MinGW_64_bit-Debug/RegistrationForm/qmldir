@@ -1,0 +1,5 @@
+module RegistrationForm
+typeinfo appRegistrationForm.qmltypes
+prefer :/qt/qml/RegistrationForm/
+Main 1.0 Main.qml
+
